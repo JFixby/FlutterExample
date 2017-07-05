@@ -1,0 +1,3 @@
+include "jitpack_example_flutter_project"
+include "jitpack_example_dart_project"
+include "jitpack_example_java_project"
